@@ -1,0 +1,1 @@
+Float doesn't represent all values. Only the most closest values. Probably double would be better than float. 
